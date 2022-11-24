@@ -49,8 +49,8 @@ export var storyboard = (
       src='./assets/Screenshot 2022-11-24 at 4.40.16 PM.png'
       style={{
         position: 'absolute',
-        left: 54,
-        top: 198,
+        left: 11,
+        top: 100,
         width: 108,
         height: 98,
       }}
@@ -62,8 +62,8 @@ export var storyboard = (
       src='./assets/finderino.png'
       style={{
         position: 'absolute',
-        left: -234,
-        top: 296,
+        left: -259,
+        top: 82,
         width: 152,
         height: 134,
       }}
