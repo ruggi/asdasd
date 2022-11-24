@@ -62,8 +62,8 @@ export var storyboard = (
       src='./assets/finderino.png'
       style={{
         position: 'absolute',
-        left: -12,
-        top: 98,
+        left: -234,
+        top: 296,
         width: 152,
         height: 134,
       }}
