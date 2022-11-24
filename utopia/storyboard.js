@@ -44,5 +44,31 @@ export var storyboard = (
       data-uid='cba'
       data-aspect-ratio-locked
     />
+    <img
+      alt=''
+      src='./assets/Screenshot 2022-11-24 at 4.40.16 PM.png'
+      style={{
+        position: 'absolute',
+        left: 54,
+        top: 198,
+        width: 108,
+        height: 98,
+      }}
+      data-uid='894'
+      data-aspect-ratio-locked
+    />
+    <img
+      alt=''
+      src='./assets/finderino.png'
+      style={{
+        position: 'absolute',
+        left: -12,
+        top: 98,
+        width: 152,
+        height: 134,
+      }}
+      data-uid='797'
+      data-aspect-ratio-locked
+    />
   </Storyboard>
 )
